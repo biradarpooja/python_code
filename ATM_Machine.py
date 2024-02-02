@@ -60,6 +60,8 @@ while True:
         else:
             print("Thank you for visiting atm machine")
             break
+        if ch=="no":
+            break
 
 
 
